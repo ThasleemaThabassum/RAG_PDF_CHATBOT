@@ -3,7 +3,9 @@
 A Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask questions about its content — answered strictly from the document, not general knowledge.
 
 *(Note: Gradio share links are temporary and expire after the session ends — see below for local setup.)*
+
 📖 **Project Page:** https://thasleemathabassum.github.io/RAG_PDF_CHATBOT/
+
 🔗 **Live Demo:** https://bd3d5ada8b33f425de.gradio.live/
 
 ## How It Works
